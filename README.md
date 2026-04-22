@@ -1,7 +1,7 @@
 # Blockchain Lab Assignments
 
-Name: Your Name Here  
-Roll Number: Your Roll Number Here  
+Name: Sakshi Shinde  
+PRNr: 123B1B263  
 Course: Blockchain Lab
 
 This repository keeps the lab work intentionally simple. One reusable `SimpleStorage` contract is used across the first three assignments, and a separate minimal DAO contract is added for the fifth assignment.
